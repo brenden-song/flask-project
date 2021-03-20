@@ -4,7 +4,7 @@ expiringdict==1.1.4
 Flask==1.1.2
 gunicorn==20.0.4
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 launchdarkly-server-sdk==6.13.0
 MarkupSafe==1.1.1
 pyRFC3339==1.1
